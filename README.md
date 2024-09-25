@@ -1,6 +1,4 @@
 # AU Announcement Notifier🔔
-
-## Description
 A Python script that scrapes the latest announcements from anna university website and sends them via email notifications.
 
 ## Features
